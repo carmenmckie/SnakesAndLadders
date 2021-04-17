@@ -1,5 +1,3 @@
-// Student Number: 2137259M
-
 import java.util.Random; 
 import java.util.Arrays; // Used in a test in '.movePlayersOnBoard()' to print all Players at a Square, to check only the correct Players are there.
 
