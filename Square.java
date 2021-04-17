@@ -1,5 +1,3 @@
-// Student Number: 2137259M
-
 public class Square {
 	private int position; // "an integer position (default 0)
 	private Player[] playerReferences = new Player[0]; // "references to any Player objects that are currently at a Square"
