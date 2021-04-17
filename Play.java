@@ -1,5 +1,3 @@
-// Student Number: 2137259M
-
 public class Play {
 
 	public static void main(String[] args) {
