@@ -1,5 +1,3 @@
-// Student Number: 2137259M
-
 import java.util.Scanner; 
 
 // "Create a subclass of your Player class, call it HumanPlayer" 
