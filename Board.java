@@ -1,5 +1,3 @@
-// Student Number: 2137259M
-
 public class Board { 
 	private int row;  // Rows
 	private int col;  // Columns
